@@ -1,0 +1,6 @@
+framework module Pods_reacttest_tvOS {
+  umbrella header "Pods-reacttest-tvOS-umbrella.h"
+
+  export *
+  module * { export * }
+}
